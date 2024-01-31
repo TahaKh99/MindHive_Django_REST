@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed:
 ## Step 1: Clone the Repository
 Clone the repository to your local machine:
 
-git clone https://github.com/TahaKh99/mindhive.git cd mindhive
+git clone https://github.com/TahaKh99/MindHive_Django_REST.git cd mindhive
 
 ## Step 2: Set Up a Virtual Environment
 Create a virtual environment in the project directory:
